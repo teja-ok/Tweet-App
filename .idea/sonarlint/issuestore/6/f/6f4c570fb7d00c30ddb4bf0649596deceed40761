@@ -1,0 +1,11 @@
+
+z
+java:S4165"eRemove this useless assignment; "message" already holds the assigned value along all execution paths.(úÖC
+{
+java:S4165"`Remove this useless assignment; "id" already holds the assigned value along all execution paths.(£©èÚşÿÿÿÿ
+J
+java:S1656"/Remove or correct this useless self-assignment.(£©èÚşÿÿÿÿ
+D
+java:S1656"/Remove or correct this useless self-assignment.(úÖC
+R
+java:S1128"5Remove this unused import 'lombok.NoArgsConstructor'.(¸¨›8°Ş·0
